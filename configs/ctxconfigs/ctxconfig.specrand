@@ -1,0 +1,5 @@
+[ Context 0 ]
+exe = specrand_base.i386
+args = 1255432124 234923
+cwd = benchmarks/spec2006/999.specrand
+StdOut = specrand.out
